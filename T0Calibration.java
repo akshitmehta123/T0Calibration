@@ -67,9 +67,8 @@ public class T0Calibration {
 
     // ---- input file -----------------------------------------------------
     // Edit this path to point at whichever hipo file you want to run over.
-    private static final String HIPO_FILE = "/path/to/hipo/file.hipo";
-            //"/Users/akshitmehta/Desktop/AHDC_calibration-main/hipo_files/elastic/p0v12_reduced_022758.hipo";
-
+    private static final String HIPO_FILE = "/path/to/your/file.hipo";
+            
     private static final int SECTOR = 1;
 
 
