@@ -73,10 +73,7 @@ public class T0Calibration {
     // ------------------------------------------------------------------------
 
     private static final double VERTEX_Z_OFFSET = 5.0;
-    private static final String HIPO_FILE =
-            //"/Volumes/Extreme_SSD/p0v12_reduced_022522_fullfinal.hipo";
-            "/Users/akshitmehta/Desktop/AHDC_calibration-main/hipo_files/elastic/p0v12_reduced_022758.hipo";
-    // "/path/to/hipo/file.hipo";
+    private static final String HIPO_FILE = "/path/to/hipo/file.hipo";
     private static final int SECTOR = 1;
 
     // ------------------------------------------------------------------------
